@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: manga-reader
+  profiles:
+    include:
+      - db
