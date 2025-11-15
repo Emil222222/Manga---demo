@@ -33,6 +33,6 @@ public class Genre {
 
     // ManyToMany обратная связь
     @ManyToMany(mappedBy = "genres")
-    @JsonIgnore // чтобы избежать циклических зависимостей при JSON сериализации
+     // чтобы избежать циклических зависимостей при JSON сериализации
     private Set<Manga> mangas = new HashSet<>();
 }

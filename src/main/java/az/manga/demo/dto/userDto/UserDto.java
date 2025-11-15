@@ -1,4 +1,4 @@
 package az.manga.demo.dto.userDto;
 
-public class RegisterDto {
+public class UserDto {
 }

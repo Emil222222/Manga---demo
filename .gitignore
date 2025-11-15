@@ -1,0 +1,21 @@
+HELP.md
+.gradle
+build/
+!gradle/wrapper/gradle-wrapper.jar
+
+### Ignore Gradle build output
+**/build/
+
+### IntelliJ IDEA ###
+.idea/
+*.iml
+
+### VS Code ###
+.vscode/
+
+### Log files ###
+*.log
+
+### OS Files ###
+.DS_Store
+
