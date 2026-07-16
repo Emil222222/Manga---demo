@@ -1,0 +1,9 @@
+rootProject.name = 'TitleRead'
+
+include 'TitleRead-common'
+include 'TitleRead-auth'
+include 'TitleRead-user'
+include 'TitleRead-manga'
+include 'untitled'
+include 'TitleRead-user-content'
+include 'TitleRead-app'
